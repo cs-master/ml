@@ -14,6 +14,4 @@ Basic Numerical Integration: the Trapezoid Rule:
 https://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Trapezoid%20Rule.ipynb
 
 # Markdown Mathematical Formulas
-\begin{equation*}
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\end{equation*}
+http://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Typesetting%20Equations.html
