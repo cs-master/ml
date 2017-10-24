@@ -1,5 +1,7 @@
 # ml
 Machine Learning 
+
+https://mlhc17mit.github.io/slides/lecture1.pdf
 http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture1.pdf
 
 # Python
