@@ -1,5 +1,6 @@
 # ml
 Machine Learning 
+http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture1.pdf
 
 # Python
 nice easy high level language for web and desktop
